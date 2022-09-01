@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">unitcon</string>
+    <string name="enter">ENTER VALUE</string>
+    <string name="input"></string>
+    <string name="kilo">KILOGRAM</string>
+    <string name="gr">GRAM</string>
+    <string name="mi">MILLIGRAM</string>
+    <string name="result">CONVERTED VALUE</string>
+    <string name="output"></string>
+    <string name="k">KILOGRAM</string>
+    <string name="g">GRAM</string>
+    <string name="m">MILLIGRAM</string>
+    <string name="submit">CONVERT</string>
+</resources>
